@@ -1,0 +1,24 @@
+{
+  "name": "matchbox-radio",
+  "version": "1.0.0",
+  "description": "Pub/Sub radio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matchboxjs/matchbox-radio.git"
+  },
+  "keywords": [
+    "matchbox",
+    "radio",
+    "pub/sub"
+  ],
+  "author": "tunderdomb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matchboxjs/matchbox-radio/issues"
+  },
+  "homepage": "https://github.com/matchboxjs/matchbox-radio#readme"
+}
